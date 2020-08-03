@@ -1,2 +1,2 @@
-# Supermarket_php
-Database management mini project on supermarket management system using PHP MySQL
+# Supermarket
+This is a mini project on Supermarket Database Management System using PHP and MySQL.
